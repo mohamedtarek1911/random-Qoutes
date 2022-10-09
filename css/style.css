@@ -1,0 +1,21 @@
+.header h1 {
+  font-weight: 900;
+  font-size: 80px;
+  /* display:; */
+}
+.header p {
+  font-weight: 600;
+  font-size: 25px;
+}
+.show p {
+  font-weight: 600;
+  font-size: 25px;
+}
+
+.header button:hover {
+  background-color: greenyellow !important;
+}
+
+.show h2 {
+  font-size: 30px;
+}
